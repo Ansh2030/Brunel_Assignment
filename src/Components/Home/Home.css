@@ -2,7 +2,7 @@
     width: 1440px;
 height: 800px;
 gap: 0px;
-/* opacity: 0px; */
+/*  */
 
 }
 
@@ -17,7 +17,7 @@ border-radius: 65.28px ;
 border: 1px #EAEAEA solid;
 display: flex;
 justify-content: space-between;
-/* opacity: 0px; */
+/*  */
 /* background-color:blue; */
 }
 
@@ -27,14 +27,14 @@ justify-content: space-between;
     margin-top: 7.86px;
     margin-left: 6.78px;
     gap: 0px;
-    opacity: 0px;
+    
 
 
     width: 127.94px;
 height: 47.39px;
 padding: 7.86px 0.17px 9.03px 6.78px;
 gap: 0px;
-/* opacity: 0px; */
+/*  */
 
     
 
@@ -48,7 +48,7 @@ min-height: Hug (77.22px)px;
 display: flex;;
 flex-direction: row;
 gap: 15.67px;
-/* opacity: 0px; */
+/*  */
 
 }
 
@@ -61,7 +61,7 @@ padding: 16.11px 41.78px 16.11px 41.78px;
 gap: 5.22px;
 border-radius: 107.06px;
 /* border: 1.31px #EAEAEA ; */
-opacity: 0px;
+
 border : 1.31px #EAEAEA solid;
 /* background-color:  #FFFFFFCC; */
 transition: .5s;
@@ -77,7 +77,7 @@ transition: .5s;
     /* width: 106px;
 height: 25px;
 gap: 0px;
-opacity: 0px; */
+ */
 font-family: Manrope;
 font-size: 18px;
 font-weight: 500;
@@ -98,7 +98,7 @@ max-height:77.22px;
 padding: 16.11px 49.61px 16.11px 41.78px;
 gap: 15.67px;
 border-radius: 107.06px;
-opacity: 0px;
+
 /* border:1px black solid; */
 background-color: #1C1C1C;
 transition: .5s;
@@ -114,7 +114,7 @@ text-align: center;
 width: 132px;
 height: 25px;
 gap: 0px;
-opacity: 0px;
+
 color: #FFFFFF;
 }
 
@@ -130,7 +130,7 @@ color: #FFFFFF;
     top: 79px;
     left: 62px;
     gap: 0px;
-    opacity: 0px;
+    
     /* background-color: aqua; */
 }
 .written{
@@ -142,7 +142,7 @@ color: #FFFFFF;
     top: 0px;
     left: 364px;
     gap: 16px;
-    opacity: 0px;
+    
     justify-content: center;
 }
 
@@ -152,7 +152,7 @@ color: #FFFFFF;
     width: max-content;
     height: 28px;
     gap: 0px;
-    opacity: 0px;
+    
     font-family: Covered By Your Grace;
 font-size: 36px;
 font-weight: 400;
@@ -169,7 +169,7 @@ margin:auto  auto;
     width: 588px;
 height: 134px;
 gap: 0px;
-opacity: 0px;
+
 
     font-family: Manrope;
 font-size: 56px;
@@ -187,7 +187,7 @@ height: 596px;
 top: 290px;
 left: 0px;
 gap: 0px;
-opacity: 0px;
+
 /* border: 2px black solid; */
 }
 
@@ -198,7 +198,7 @@ opacity: 0px;
     top: 0px;
     left: 144.69px;
     gap: 0px;
-    opacity: 0px;
+    
     
 }
 
@@ -214,7 +214,7 @@ padding: 34px 30px 40px 36px;
 gap: 20px;
 border-radius: 28.36px ;
 border: 1.18px;
-opacity: 0px;
+
 /* border: 2px black solid; */
 background-color: #002E18;
 }
@@ -224,7 +224,7 @@ background-color: #002E18;
     width: 221px;
     height:76px;
     gap: 11px;
-    opacity: 0px;
+    
     align-items: flex-end;
 }
 
@@ -232,7 +232,7 @@ background-color: #002E18;
     width: 119px;
 height: 76px;
 gap: 0px;
-opacity: 0px;
+
 font-family: Switzer;
 font-size: 63.37px;
 font-weight: 500;
@@ -248,7 +248,7 @@ color: #FFFFFF;
     width: 91px;
 height: 32px;
 gap: 0px;
-opacity: 0px;
+
 font-family: Switzer;
 font-size: 22.81px;
 font-weight: 500;
@@ -265,7 +265,7 @@ align-items: flex-end;
     width: 224.49px;
 height: 69px;
 gap: 0px;
-opacity: 0px;
+
 font-family: Manrope;
 font-size: 18px;
 font-weight: 500;
@@ -286,7 +286,7 @@ left: 0px;
 padding: 30px ;
 gap: 10px;
 border-radius: 27.11px;
-opacity: 0px;
+
 /* border: 2px black solid; */
 display: flex;
 flex-direction: column;
@@ -299,7 +299,7 @@ background-color: #FFFFFF;
     width: 121px;
     height: 77px;
     gap: 0px;
-    opacity: 0px;
+    
     font-family: Switzer;
 font-size: 64px;
 font-weight: 500;
@@ -313,7 +313,7 @@ text-align: left;
     width: 207.82px;
 height: 92px;
 gap: 0px;
-opacity: 0px;
+
 font-family: Manrope;
 font-size: 18px;
 font-weight: 500;
@@ -327,7 +327,7 @@ color: #828282;
     width: 79.17px;
 height: 78.48px;
 gap: 0px;
-opacity: 0px;
+
 rotate: 21.27 deg;
 position: absolute;
 left:7px;
@@ -348,7 +348,7 @@ left: 66.19px;
 padding: 16px 32px 16px 16px;
 gap: 14px;
 border-radius: 111.54px;
-opacity: 0px;
+
 /* border:2px black solid; */
 display: flex;
 flex-direction: row;
@@ -360,7 +360,7 @@ background-color:  #FFFFFF;
     width: 52px;
 height: 52px;
 gap: 0px;
-opacity: 0px;
+
 
 }
 
@@ -374,7 +374,7 @@ opacity: 0px;
     width: 92px;
 height: 33px;
 gap: 0px;
-opacity: 0px;
+
 font-family: Manrope;
 font-size: 24px;
 font-weight: 700;
@@ -388,7 +388,7 @@ text-align: left;
     width: 131px;
 height: 21px;
 gap: 0px;
-opacity: 0px;
+
 font-family: Manrope;
 font-size: 16px;
 font-weight: 500;
@@ -405,7 +405,7 @@ height: 192px;
 top: 361px;
 left: 835px;
 gap: 0px;
-opacity: 0px;
+
 font-family: Manrope;
 font-size: 40px;
 font-weight: 600;
@@ -427,7 +427,7 @@ left: 835px;
 padding: 31px 40px 31px 40px;
 gap: 16px;
 border-radius: 100px ;
-opacity: 0px;
+
 /* border:2px black solid; */
 display: flex;
 flex-direction: row;
@@ -447,7 +447,7 @@ transition: .5s;
     width: max-content;
 height: 27px;
 gap: 0px;
-opacity: 0px;
+
 font-family: Manrope;
 font-size: 20px;
 font-weight: 600;
@@ -461,7 +461,7 @@ text-align: center;
 height: 24px;
 padding: 4.22px 4px 4.22px 4px;
 gap: 0px;
-opacity: 0px;
+
 rotate: 180 deg;
 
  }
@@ -475,7 +475,7 @@ position: absolute;
 top: 608px;
 left: 835px;
 gap: 12px;
-opacity: 0px;
+
 display: flex;
 flex-direction: row;
 gap:12px
@@ -485,7 +485,7 @@ gap:12px
     width: 10.75px;
 height: 10.75px;
 gap: 0px;
-opacity: 0px;
+
 
  }
 
@@ -499,7 +499,7 @@ margin-top: 128px;
 left: 32px;
 gap: 0px;
 border-radius: 40px;
-opacity: 0px;
+
 background-color: #E8EEE7;
 ;
 
@@ -515,7 +515,7 @@ height: max-content;
 top: 80px;
 left: 94.5px;
 gap: 20px;
-opacity: 0px;
+
 display: flex;
 flex-direction: column;
 
@@ -526,7 +526,7 @@ flex-direction: column;
     width: 215px;
 height: 25px;
 gap: 0px;
-opacity: 0px;
+
 font-family: Covered By Your Grace;
 font-size: 32px;
 font-weight: 400;
@@ -546,7 +546,7 @@ text-align: left;
 width: 405px;
 height: 66px;
 gap: 0px;
-opacity: 0px;
+
 color: #1C1C1C;
 
  }
@@ -567,7 +567,7 @@ height: 538px;
 top: 137px;
 left: 721px;
 gap: 36px;
-opacity: 0px;
+
 /* border:3px black solid */
 
  }
@@ -577,7 +577,7 @@ opacity: 0px;
 /* height: 52px; */
 height: max-content;
 gap: 24px;
-opacity: 0px;
+
 /* border:3px black solid; */
 
 margin-bottom: 20px;
@@ -593,7 +593,7 @@ padding-bottom: 13px;
 /* height: 28px; */
 height: max-content;
 gap: 0px;
-opacity: 0px;
+
 font-family: Manrope;
 font-size: 20px;
 font-weight: 600;
@@ -608,7 +608,7 @@ color: #1C1C1C;
 height: 0px;
 gap: 0px;
 border: 1px ;
-opacity: 0px;
+
 border: 1px solid #D7D7D7;
  }
  .three .right .onee .ques .cont img{
@@ -616,7 +616,7 @@ border: 1px solid #D7D7D7;
 height: 24px;
 padding: 5px ;
 gap: 0px;
-opacity: 0px;
+
 
  }
 
@@ -629,7 +629,7 @@ text-align: left;
 width: 581px;
 height: 78px;
 gap: 0px;
-opacity: 0px;
+
 color: #617275;
 ;
 

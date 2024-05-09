@@ -4,7 +4,7 @@ height: 357px;
 margin-top: 221px;
 margin-left: 361px;
 gap: 41px;
-opacity: 0px;
+
 border:2px black solid;
 display: flex;
 flex-direction: column;
@@ -48,7 +48,7 @@ height: 26px;
 top: 732px;
 left: 361px;
 gap: 0px;
-opacity: 0px;
+
 font-family: Manrope;
 font-size: 20px;
 font-weight: 400;
@@ -61,14 +61,14 @@ text-align: center;
     width: 80px;
     height:80px;
     gap: 25px;
-    opacity: 0px;
+    
     
 }
 .container .sec1{
     width: 718px;
 height:236px;
 gap: 16px;
-opacity: 0px;
+
 border:2px black solid;
 display: flex;
 flex-direction: column;
@@ -85,7 +85,7 @@ align-items: center;
     width: 237px;
 height: 28px;
 gap: 0px;
-opacity: 0px;
+
 color: #2DA950;   
 }
 
@@ -93,7 +93,7 @@ color: #2DA950;
     width: 423px;
 height: 67px;
 gap: 0px;
-opacity: 0px;
+
 font-family: Manrope;
 font-size: 56px;
 font-weight: 600;
@@ -108,7 +108,7 @@ color:#1C1C1C;
     width: 718px;
 height: 105px;
 gap: 0px;
-opacity: 0px;
+
 font-family: Manrope;
 font-size: 27px;
 font-weight: 500;

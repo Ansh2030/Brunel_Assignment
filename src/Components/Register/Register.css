@@ -6,7 +6,7 @@ top: 31.89px;
 left: 52.22px;
 padding: 7.86px 0.17px 9.03px 6.78px;
 gap: 0px;
-opacity: 0px;
+
 
 }
 .cross{
@@ -19,7 +19,7 @@ padding: 16px 0px 0px 0px;
 gap: 10px;
 
 border: 1px 0px 0px 0px;
-opacity: 0px;
+
 
 }
 .hug{
@@ -29,7 +29,7 @@ position: absolute;
 top: 141px;
 left: 426px;
 gap: 62px;
-opacity: 0px;
+
 /* background-color:blueviolet; */
 display:flex;
 /* border: 3px black solid; */
@@ -40,7 +40,7 @@ flex-direction: column;
     width:588px;
 height: 178px;
 gap: 16px;
-opacity: 0px;
+
 display: flex;
 
 flex-direction: column;
@@ -63,7 +63,7 @@ margin: 6px;
     width: 255px;
 height: 28px;
 gap: 0px;
-opacity: 0px;
+
 font-family: Covered By your grace;
 font-size: 36px;
 font-weight: 400;
@@ -81,7 +81,7 @@ margin:auto auto;
     width: 417px;
 height: 298.22px;
 gap: 47px;
-opacity: 0px;
+
 /* border:3px black solid; */
 
 
@@ -91,7 +91,7 @@ opacity: 0px;
     width: 417px;
 height: 174px;
 gap: 24px;
-opacity: 0px;
+
 /* border: 3px black solid; */
 display: flex;
 flex-direction: column;
@@ -104,7 +104,7 @@ height:77.22px;
 /* padding: 26.11px 49.61px 26.11px 41.78px; */
 margin-top: 47px;
 border-radius: 107.06px 107px 107px 107px;
-opacity: 0px;
+
 /* border:3px black solid; */
 background-color: #C9C9C9;
 color: #FFFFFF;
@@ -129,7 +129,7 @@ transition: 0.5s;
     width: 153px;
 height: 27px;
 gap: 0px;
-opacity: 0px;
+
     font-family: Manrope;
 font-size: 20px;
 font-weight: 500;
@@ -146,7 +146,7 @@ border:none;
     gap: 10px;
     border-radius: 64px 64px 64px 64px;
     /* border: 1px ; */
-    opacity: 0px;
+    
     background-color: #EFEFEF;
     ;
 }
@@ -155,7 +155,7 @@ border:none;
     width: max-content;
 height: max-content;
 gap: 7px;
-opacity: 0px;
+
 display: flex;
 flex-direction: row;
 justify-content: center;
@@ -170,7 +170,7 @@ margin-top: -30px;
     width: 198px;
 height: 22px;
 gap: 0px;
-opacity: 0px;
+
 font-family: Manrope;
 font-size: 16px;
 font-weight: 500;
