@@ -1,7 +1,7 @@
 import React from 'react'
 import './Home.css'
 import logo from "../../Images/Vector.png";
-import ss from "../../Images/Success stories.png";
+
 import mask from "../../Images/Mask group.png";
 import sp from "../../Images/spark, sparkle, 26.png";
 import icon from "../../Images/Group 1171281573.png";

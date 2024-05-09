@@ -25,7 +25,7 @@ function Success() {
        navigate('/');
       }, 5000); // 5 seconds (5000 milliseconds)
     
-  }, []);
+  }, );
 
 
   return (

@@ -1,4 +1,4 @@
-import React, { useEffect, useState } from 'react'
+import React, {useEffect, useState } from 'react'
 import './Register.css'
 import logo from "../../Images/Vector.png";
 import  { useNavigate } from 'react-router-dom';
@@ -10,17 +10,25 @@ import badge from "../../Images/Badges.png";
 function Register() {
     const navigate = useNavigate();
    const [email, setEmail] = useState("");
-   const [flag, setFlag] = useState(true);
+   const [flag, setFlag] = useState(false);
+   const [show, setShow] = useState(false);
+
+   useEffect(() => {
+    if (flag) {
+      navigate("/success");
+    }
+  }, [flag, navigate]);
+
 
 const check= ()=>{
-
   const regex = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
   // setFlag(!regex.test(email));
-  setFlag(email.match(regex))
-
-  if(flag==false){
-    navigate("/success");
-  }
+  console.log(regex.test(email));
+  setFlag(regex.test(email))
+  setShow(!regex.test(email))
+// console.log(flag);
+// console.log(email);
+ 
 }
  
 
@@ -49,7 +57,7 @@ const check= ()=>{
     <div className='topD'>
     <input type='email' value={email} onChange={(e)=> setEmail(e.target.value)} placeholder='Enter your email'/>
     </div>
-   {!flag? <div className='error'>
+   {show? <div className='error'>
       <img src = {badge} alt=""/>
       <p>Enter a valid email address</p>
     </div>:""
