@@ -1,0 +1,119 @@
+.container{
+    width:718px;
+height: 357px;
+margin-top: 221px;
+margin-left: 361px;
+gap: 41px;
+opacity: 0px;
+border:2px black solid;
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+}
+
+.log{
+    position: absolute;
+    width: 127.94px;
+height: 47.39px;
+top: 31.89px;
+left: 52.22px;
+padding: 7.86px 0.17px 9.03px 6.78px;
+
+
+}
+
+.time{
+    font-family: Manrope;
+font-size: 20px;
+font-weight: 700;
+line-height: 26px;
+text-align: center;
+
+}
+
+.rt{
+    font-family: Manrope;
+font-size: 20px;
+font-weight: 400;
+line-height: 26px;
+text-align: center;
+color: #727272;
+
+}
+.redirect{
+    position: absolute;
+    width: 718px;
+height: 26px;
+top: 732px;
+left: 361px;
+gap: 0px;
+opacity: 0px;
+font-family: Manrope;
+font-size: 20px;
+font-weight: 400;
+line-height: 26px;
+text-align: center;
+
+}
+
+.container img{
+    width: 80px;
+    height:80px;
+    gap: 25px;
+    opacity: 0px;
+    
+}
+.container .sec1{
+    width: 718px;
+height:236px;
+gap: 16px;
+opacity: 0px;
+border:2px black solid;
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+}
+.container .sec1 .suc{
+    font-family: Covered By Your Grace;
+    font-size: 36px;
+    font-weight: 400;
+    line-height: 39.6px;
+    letter-spacing: -0.02em;
+    text-align: left;
+    width: 237px;
+height: 28px;
+gap: 0px;
+opacity: 0px;
+color: #2DA950;   
+}
+
+.container .sec1 .congo{
+    width: 423px;
+height: 67px;
+gap: 0px;
+opacity: 0px;
+font-family: Manrope;
+font-size: 56px;
+font-weight: 600;
+line-height: 67.2px;
+letter-spacing: -0.02em;
+text-align: center;
+color:#1C1C1C;
+
+}
+
+.container .sec1 .msg{
+    width: 718px;
+height: 105px;
+gap: 0px;
+opacity: 0px;
+font-family: Manrope;
+font-size: 27px;
+font-weight: 500;
+line-height: 35.1px;
+text-align: center;
+color:#727272;
+
+}
