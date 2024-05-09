@@ -14,9 +14,6 @@ function App() {
         <Route path="/success" element={<Success/>}/>
       </Routes>
     </BrowserRouter>
-   {/* <Register/> */}
-
-
       </>
   );
 }
